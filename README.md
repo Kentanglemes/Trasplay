@@ -3,7 +3,7 @@
   <p>Simple music bot with high quality.<p>
 </div>
 
-![Trasplay](https://media.discordapp.net/attachments/1253060308772323369/1254107172510371901/Screenshot_2024_0622_231351.jpg?ex=667849d2&is=6676f852&hm=19c95055bb5559628f47120f326978e7adf41d12eb33113ddce39c8acca0c3b7&)
+![Trasplay](https://media.discordapp.net/attachments/1235904997905137756/1254123178024767568/IMG_20240623_001732.jpg?ex=667858ba&is=6677073a&hm=5020e987663849744086972b5ecf9b5c1a1c390a0be247636abf509766379441&)
 
 <details align=center>
 <summary><h2>Vote & Donate Me</h2></summary>
