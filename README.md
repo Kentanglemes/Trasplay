@@ -19,7 +19,7 @@ To get started, join a voice channel type **+play** to listen the music and to s
 
 > **🎶 Music Commands**
 
-> > **+autoplay, +play, +skip, +stop, +volume**
+> **+autoplay, +play, +skip, +stop, +volume**
 
 > **🔧 Utility Commands**
 
