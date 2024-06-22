@@ -18,9 +18,11 @@ To get started, join a voice channel type **+play** to listen the music and to s
 ## 📜 List All Trasplay Commands
 
 > **🎶 Music Commands**
-> **+autoplay, +play, +skip, +stop, +volume**
+
+> > **+autoplay, +play, +skip, +stop, +volume**
 
 > **🔧 Utility Commands**
+
 > **+broadcast, +help, +ping, +uptime, +vote**
 
 **[Invite Me](https://discord.com/oauth2/authorize?client_id=1201260757258612817&permissions=6445985024&scope=bot+applications.commands) • [Support Server](https://discord.com/invite/2wQyNDbyk3) • [Donate](https://trakteer.id/trasplay/tip)**
