@@ -17,11 +17,11 @@ To get started, join a voice channel type **+play** to listen the music and to s
 
 ## 📜 List All Trasplay Commands
 
-> **🎶 Music Commands**
+**🎶 Music Commands**
 
 > **+autoplay, +play, +skip, +stop, +volume**
 
-> **🔧 Utility Commands**
+**🔧 Utility Commands**
 
 > **+broadcast, +help, +ping, +uptime, +vote**
 
