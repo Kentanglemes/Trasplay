@@ -17,22 +17,6 @@
 
 **• [Faridz](https://discord.com/oauth2/authorize?client_id=1212767207885504513&permissions=6445985024&integration_type=0&scope=bot+applications.commands) - End Service**
 
-## 🤖 How To Use The Trasplay Commands 
-
-To get started, join a voice channel type **+play** to listen the music and to see all Trasplay commands type **+help.**
-
-## 📜 List All Trasplay Commands
-
-**🎶 Music Commands**
-
-> **+autoplay, +play, +skip, +stop, +volume**
-
-**🔧 Utility Commands**
-
-> **+broadcast, +help, +ping, +uptime, +vote**
-
-**[Invite Me](https://discord.com/oauth2/authorize?client_id=1201260757258612817&permissions=6445985024&scope=bot+applications.commands) • [Support Server](https://discord.com/invite/2wQyNDbyk3) • [Donate](https://trakteer.id/trasplay/tip)**
-
 ## 🔗 Website
 
 ```bash
