@@ -13,7 +13,9 @@
 
 ## Official Cavedainos Bots
 
+**[Traspkay](https://discord.com/oauth2/authorize?client_id=1201260757258612817&permissions=6445985024&scope=bot+applications.commands) - Online**
 
+**[Faridz](https://discord.com/oauth2/authorize?client_id=1212767207885504513&permissions=6445985024&integration_type=0&scope=bot+applications.commands) - End Service**
 
 ## 🤖 How To Use The Trasplay Commands 
 
