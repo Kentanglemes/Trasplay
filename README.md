@@ -11,7 +11,7 @@
 [Click Here](https://linktr.ee/trasplay)
 </details>
 
-## 🤖 Official Cavedainos Bots
+## 🤖 Official Bots
 
 **• [Trasplay](https://discord.com/oauth2/authorize?client_id=1201260757258612817&permissions=6445985024&scope=bot+applications.commands) - Online**
 
