@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Trasplay 🎶 </h1>
-  <p>Made by Cavedainos<p>
+  <p>🪸 Made by Cavedainos 🪸<p>
 </div>
 
 ![Trasplay](https://media.discordapp.net/attachments/1235904997905137756/1254123178024767568/IMG_20240623_001732.jpg?ex=667858ba&is=6677073a&hm=5020e987663849744086972b5ecf9b5c1a1c390a0be247636abf509766379441&)
@@ -11,7 +11,7 @@
 [Click Here](https://linktr.ee/trasplay)
 </details>
 
-## Official Cavedainos Bots
+## 🤖 Official Cavedainos Bots
 
 **• [Trasplay](https://discord.com/oauth2/authorize?client_id=1201260757258612817&permissions=6445985024&scope=bot+applications.commands) - Online**
 
