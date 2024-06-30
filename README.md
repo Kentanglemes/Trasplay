@@ -1,9 +1,7 @@
 <div align="center">
   <h1>Trasplay 🎶 </h1>
-  <p>Trasplay supports music apps YouTube (song name or link) and Spotify, SoundCloud, Deezer (link only).<p>
+  <p>Supports **YouTube (song name or link)** and **Spotify, SoundCloud, Deezer (link only).** To see all Trasplay commands type **+help**<p>
 </div> 
-
-![Trasplay](https://ibb.co.com/tMDKyYP)
 
 <details align=center>
 <summary><h2>Vote & Donate Me</h2></summary>
