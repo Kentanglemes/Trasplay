@@ -1,10 +1,12 @@
 <div align="center">
   <h1>Trasplay 🎶 </h1>
-  <p>Supports YouTube (song name or link) and Spotify, SoundCloud, Deezer (link only). To see all Trasplay commands type +help<p>
+  <p>Simple music bot with high quality.<p>
 </div> 
 
 <details align=center>
 <summary><h2>Vote & Donate Me</h2></summary>
+
+**Supports YouTube (song name or link) and Spotify, SoundCloud, Deezer (link only). To see all Trasplay commands type +help**
   
 [Click Here](https://linktr.ee/trasplay)
 </details>
