@@ -5,11 +5,11 @@
 
 <details align=center>
 <summary><h2>Vote & Donate Me</h2></summary>
-
-**Supports YouTube (song name or link) and Spotify, SoundCloud, Deezer (link only). To see all Trasplay commands type +help**
   
 [Click Here](https://linktr.ee/trasplay)
 </details>
+
+**Supports YouTube (song name or link) and Spotify, SoundCloud, Deezer (link only). To see all Trasplay commands type +help**
 
 ## 🤖 Official Bots
 
