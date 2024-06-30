@@ -15,7 +15,7 @@
 
 **• [Faridz](https://discord.com/oauth2/authorize?client_id=1212767207885504513&permissions=6445985024&integration_type=0&scope=bot+applications.commands) - Coming Soon**
 
-## 🔗 Website
+## 📖 Vote
 
 ```bash
 https://linktr.ee/trasplay
