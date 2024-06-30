@@ -9,8 +9,6 @@
 [Click Here](https://linktr.ee/trasplay)
 </details>
 
-**Supports YouTube (song name or link) and Spotify, SoundCloud, Deezer (link only). To see all Trasplay commands type +help**
-
 ## 🤖 Official Bots
 
 **• [Trasplay](https://discord.com/oauth2/authorize?client_id=1201260757258612817&permissions=6445985024&scope=bot+applications.commands) - Online**
