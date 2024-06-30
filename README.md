@@ -17,9 +17,14 @@
 
 ## 📖 Vote
 
-```bash
-https://linktr.ee/trasplay
-```
+> **❤ Vote on [Top.gg](https://top.gg/bot/1201260757258612817/vote)**
+> **https://top.gg/bot/1201260757258612817/vote**
+
+> **💙 Vote on [Discords.com](https://discords.com/bots/bot/1201260757258612817/vote)**
+> **https://discords.com/bots/bot/1201260757258612817/vote**
+
+> **🤍 Vote on [Discordbotlist.com](https://discordbotlist.com/bots/trasplay/upvote)**
+> **https://discordbotlist.com/bots/trasplay/upvote**
 
 ## 👑 Owner
 <div align="center">
