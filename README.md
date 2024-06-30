@@ -4,16 +4,10 @@
 </div> 
 
 <details align=center>
-<summary><h2>Vote & Donate Me</h2></summary>
+<summary><h2>Donate Me</h2></summary>
   
 [Click Here](https://linktr.ee/trasplay)
 </details>
-
-## 🤖 Official Bots
-
-**• [Trasplay](https://discord.com/oauth2/authorize?client_id=1201260757258612817&permissions=6445985024&scope=bot+applications.commands) - Online**
-
-**• [Faridz](https://discord.com/oauth2/authorize?client_id=1212767207885504513&permissions=6445985024&integration_type=0&scope=bot+applications.commands) - Coming Soon**
 
 ## 📖 Vote
 
