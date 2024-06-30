@@ -3,7 +3,7 @@
   <p>Trasplay supports music apps YouTube (song name or link) and Spotify, SoundCloud, Deezer (link only).<p>
 </div> 
 
-![Trasplay](https://media.discordapp.net/attachments/1235904997905137756/1254123178024767568/IMG_20240623_001732.jpg?ex=667858ba&is=6677073a&hm=5020e987663849744086972b5ecf9b5c1a1c390a0be247636abf509766379441&)
+![Trasplay](https://ibb.co.com/tMDKyYP)
 
 <details align=center>
 <summary><h2>Vote & Donate Me</h2></summary>
