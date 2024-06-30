@@ -6,7 +6,7 @@
 <details align=center>
 <summary><h2>Donate Me</h2></summary>
   
-[Click Here](https://linktr.ee/trasplay)
+[Click Here](https://saweria.co/trasplay)
 </details>
 
 ## 📖 Vote
