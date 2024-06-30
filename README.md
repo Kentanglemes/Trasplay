@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Trasplay 🎶 </h1>
-  <p>Supports **YouTube (song name or link)** and **Spotify, SoundCloud, Deezer (link only).** To see all Trasplay commands type **+help**<p>
+  <p>Supports YouTube (song name or link) and Spotify, SoundCloud, Deezer (link only). To see all Trasplay commands type +help<p>
 </div> 
 
 <details align=center>
@@ -13,7 +13,7 @@
 
 **• [Trasplay](https://discord.com/oauth2/authorize?client_id=1201260757258612817&permissions=6445985024&scope=bot+applications.commands) - Online**
 
-**• [Faridz](https://discord.com/oauth2/authorize?client_id=1212767207885504513&permissions=6445985024&integration_type=0&scope=bot+applications.commands) - End Service**
+**• [Faridz](https://discord.com/oauth2/authorize?client_id=1212767207885504513&permissions=6445985024&integration_type=0&scope=bot+applications.commands) - Coming Soon**
 
 ## 🔗 Website
 
