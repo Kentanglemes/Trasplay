@@ -11,15 +11,21 @@
 
 ## 📖 Vote
 
-> **❤ Vote on [Top.gg](https://top.gg/bot/1201260757258612817/vote)**
+> **❤ Vote on Top.gg**
 > **https://top.gg/bot/1201260757258612817/vote**
 
-> **💙 Vote on [Discords.com](https://discords.com/bots/bot/1201260757258612817/vote)**
+> **💙 Vote on Discords.com**
 > **https://discords.com/bots/bot/1201260757258612817/vote**
 
-> **🤍 Vote on [Discordbotlist.com](https://discordbotlist.com/bots/trasplay/upvote)**
+> **🤍 Vote on [Discordbotlist.com]**
 > **https://discordbotlist.com/bots/trasplay/upvote**
 
+> **🧡 Discord.me**
+> **https://discord.me/trasplay**
+
+> **💜 Discord.bots.gg**
+> **https://discord.bots.gg/bots/1201260757258612817**
+> 
 ## 👑 Owner
 <div align="center">
   <a width="100%" href="https://discord.com/invite/2wQyNDbyk3"  target="_blank">
