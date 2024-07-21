@@ -17,7 +17,7 @@
 > **💙 Vote on Discords.com**
 > **https://discords.com/bots/bot/1201260757258612817/vote**
 
-> **🤍 Vote on [Discordbotlist.com]**
+> **🤍 Vote on Discordbotlist.com**
 > **https://discordbotlist.com/bots/trasplay/upvote**
 
 > **🧡 Discord.me**
