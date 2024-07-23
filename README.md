@@ -28,16 +28,19 @@
 >
 
 # ⚙️ Support Server
-**🌟 https://discord.com/invite/2wQyNDbyk3**
+**https://discord.com/invite/2wQyNDbyk3**
 
 # 💰 Donate Me
-**🌟 https://saweria.co/trasplay**
-**🌟 https://trakteer.id/trasplay/tip**
+**• https://saweria.co/trasplay**
+
+**• https://trakteer.id/trasplay/tip**
 
 # 🪩 Social Media
-**🌟 https://youtube.com/@trasplay**
-**🌟 https://tiktok.com/@trasplaybot**
-**🌟 https://instagram.com/trasplaybot**
+**• https://youtube.com/@trasplay**
+
+**• https://tiktok.com/@trasplaybot**
+
+**• https://instagram.com/trasplaybot**
 
 # 👑 Owner
 <div align="center">
