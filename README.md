@@ -4,9 +4,9 @@
 </div> 
 
 <details align=center>
-<summary><h2>Donate Me</h2></summary>
+<summary><h2>Invite Me</h2></summary>
   
-[Click Here](https://saweria.co/trasplay)
+[Click Here](https://discord.com/oauth2/authorize?client_id=1201260757258612817&permissions=687231855952&integration_type=0&scope=bot+applications.commands)
 </details>
 
 ## 📖 Vote
@@ -28,9 +28,18 @@
 >
 
 # ⚙️ Support Server
-**https://discord.com/invite/2wQyNDbyk3**
+**🌟 https://discord.com/invite/2wQyNDbyk3**
 
-## 👑 Owner
+# 💰 Donate Me
+**🌟 https://saweria.co/trasplay**
+**🌟 https://trakteer.id/trasplay/tip**
+
+# 🪩 Social Media
+**🌟 https://youtube.com/@trasplay**
+**🌟 https://tiktok.com/@trasplaybot**
+**🌟 https://instagram.com/trasplaybot**
+
+# 👑 Owner
 <div align="center">
   <a width="100%" href="https://discord.com/invite/2wQyNDbyk3"  target="_blank">
     <img align="mid" height="100%" width="100%" style="margin: 0 10px 0 0;" alt=" " src="https://discord.c99.nl/widget/theme-1/995913592253710356.png">
