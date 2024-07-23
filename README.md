@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Trasplay 🎶 </h1>
-  <p>Simple music bot with high quality.<p>
+  <p>Verified: 14 February 2024 (No Team)<p>
 </div> 
 
 <details align=center>
