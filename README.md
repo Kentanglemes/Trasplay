@@ -25,7 +25,11 @@
 
 > **💜 Discord.bots.gg**
 > **https://discord.bots.gg/bots/1201260757258612817**
-> 
+>
+
+# ⚙️ Support Server
+**https://discord.com/invite/2wQyNDbyk3**
+
 ## 👑 Owner
 <div align="center">
   <a width="100%" href="https://discord.com/invite/2wQyNDbyk3"  target="_blank">
