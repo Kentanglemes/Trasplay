@@ -29,10 +29,6 @@
 > **🧡 Discord.me**
 > **https://discord.me/trasplay**
 
-> **💜 Discord.bots.gg**
-> **https://discord.bots.gg/bots/1201260757258612817**
->
-
 # ⚙️ Support Server
 **https://discord.com/invite/2wQyNDbyk3**
 
@@ -42,11 +38,11 @@
 **• https://trakteer.id/trasplay/tip**
 
 # 🪩 Social Media
-**• https://youtube.com/@trasplay**
+**• https://youtube.com/@xgenerate**
 
-**• https://tiktok.com/@trasplaybot**
+**• https://tiktok.com/@xgenerate_**
 
-**• https://instagram.com/trasplaybot**
+**• https://instagram.com/xgenerate_**
 
 # 👑 Owner
 <div align="center">
