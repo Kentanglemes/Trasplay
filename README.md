@@ -40,9 +40,9 @@
 # 🪩 Social Media
 **• https://youtube.com/@xgenerate**
 
-**• https://tiktok.com/@xgenerate_**
+**• [https://tiktok.com/@xgenerate_](https://tiktok.com/@xgenerate_)**
 
-**• https://instagram.com/xgenerate_**
+**• [https://instagram.com/xgenerate_](https://instagram.com/xgenerate_)**
 
 # 👑 Owner
 <div align="center">
