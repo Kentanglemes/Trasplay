@@ -33,6 +33,8 @@
 **https://discord.com/invite/2wQyNDbyk3**
 
 # 💰 Donate Me
+**• https://saweria.co/aprilioakbar**
+
 **• https://saweria.co/trasplay**
 
 **• https://trakteer.id/trasplay/tip**
