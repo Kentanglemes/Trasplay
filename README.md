@@ -10,7 +10,7 @@
 </div> 
 
 <details align=center>
-<summary><h2>Invite Me</h2></summary>
+<summary><h2>End Service 😞🙏</h2></summary>
   
 [Click Here](https://discord.com/oauth2/authorize?client_id=1201260757258612817&permissions=687231855952&integration_type=0&scope=bot+applications.commands)
 </details>
