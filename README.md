@@ -39,13 +39,6 @@
 
 **• https://trakteer.id/trasplay/tip**
 
-# 🪩 Social Media
-**• https://youtube.com/@xgenerate**
-
-**• [https://tiktok.com/@xgenerate_](https://tiktok.com/@xgenerate_)**
-
-**• [https://instagram.com/xgenerate_](https://instagram.com/xgenerate_)**
-
 # 👑 Owner
 <div align="center">
   <a width="100%" href="https://discord.com/invite/2wQyNDbyk3"  target="_blank">
