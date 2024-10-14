@@ -26,6 +26,9 @@
 > **🤍 Vote on Discordbotlist.com**
 > **https://discordbotlist.com/bots/trasplay/upvote**
 
+> **❤‍🩹 Vote on Discordlist.gg**
+> **https://discordlist.gg/bot/1201260757258612817/vote**
+
 > **🧡 Discord.me**
 > **https://discord.me/trasplay**
 
