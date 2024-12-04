@@ -6,7 +6,7 @@
 
 <div align="center">
   <h1>Trasplay 🎶 </h1>
-  <p>Verified: 14 February 2024 (No Team)<p>
+  <p>Verified: 14th February 2024<p>
 </div> 
 
 <details align=center>
