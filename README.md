@@ -169,7 +169,7 @@ If you love this bot, don't forget to vote.
 ## 🔗 Contact Me
 
 <p align="center">
-  <a href="helper@airinchan.my.id" target="_blank">
+  <a href="helper@trasplay.my.id" target="_blank">
     <img src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" alt="Email"/>
   </a>
   <a href="https://discord.com/invite/2wQyNDbyk3" target="_blank">
