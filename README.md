@@ -43,6 +43,11 @@ If you love this bot, don't forget to vote.
 [![AlanDainos](https://github.com/kentanglemes.png?size=60)](https://github.com/kentanglemes "Alandainos on Github")
 [![KYDO](https://github.com/88JC.png?size=60)](https://github.com/88JC "KYDO on GitHub")
 
+## 🆘 Support Server
+<a href="https://discord.gg/2wQyNDbyk3" target="_blank">
+                        <img width="100%" src="https://api.weblutions.com/discord/invite/2wQyNDbyk3" alt="Support Server">
+                    </a>
+
 ## 🛠️ Languages and Tools
 
 <table align="center">
