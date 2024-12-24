@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://trasplay.my.id" target="_blank">
-    <img alt="Banner" width="700" src="https://media.discordapp.net/attachments/1315028244214317076/1317666206265770014/TRASPLAY_20241215_083307_0000.png?ex=675f83c8&is=675e3248&hm=2db694c375ae49ce75c60f66ea7f9864b64d653ab21f38aba07a2d31c9c4450a&">
+    <img alt="Banner" width="700" src="https://media.discordapp.net/attachments/1315028244214317076/1321084355224801300/TRASPLAY_20241224_185637_0000.png?ex=676bf32e&is=676aa1ae&hm=0c2bf0a3c9fa75ed48e3ae4ece21a353f209694d89a0ddecb935a889f7936491&">
   </a>
 </p>
 
