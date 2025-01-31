@@ -1,11 +1,5 @@
 ## 🤖 Trasplay Discord Bot.</h3>
 
-<p align="center">
-  <a href="https://trasplay.my.id" target="_blank">
-    <img alt="Banner" width="700" src="https://media.discordapp.net/attachments/1315028244214317076/1321084355224801300/TRASPLAY_20241224_185637_0000.png?ex=676bf32e&is=676aa1ae&hm=0c2bf0a3c9fa75ed48e3ae4ece21a353f209694d89a0ddecb935a889f7936491&">
-  </a>
-</p>
-
 <div align="center">
   <a href="https://trasplay.my.id">
     <img src="https://readme-typing-svg.demolab.com?font=Source+Serif+Pro&size=30&duration=3000&pause=1000&color=fd4b01&center=true&vCenter=true&width=435&lines=HELLO+I'M+'TRASPLAY';+DISCORD+MUSIC+BOT;+TRASPLAY.MY.ID;+DON'T+FORGET+TO+VOTE">
@@ -41,7 +35,6 @@ If you love this bot, don't forget to vote.
 
 ## 👥 Meet Our Team
 [![AlanDainos](https://github.com/kentanglemes.png?size=60)](https://github.com/kentanglemes "Alandainos on Github")
-[![KYDO](https://github.com/88JC.png?size=60)](https://github.com/88JC "KYDO on GitHub")
 
 ## 🆘 Support Server
 <a href="https://discord.gg/2wQyNDbyk3" target="_blank">
